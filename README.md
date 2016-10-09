@@ -1,5 +1,5 @@
 # Reverse-Shell-in-Python
-
+### if you like this code fork and star it, don't just download it.
 #What are shells?
 
   >Shell can simply be described as a piece of code or program which can be used to gain code or command execution on a device (like servers, mobile phones, etc.
